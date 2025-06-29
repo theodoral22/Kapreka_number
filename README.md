@@ -4,6 +4,7 @@ B > 0 (non-zero)
 Leading zeros are allowed in both parts.
 
 How the Program Works:
+
 -> Input Validation:
 It repeatedly asks the user to enter a number until a non-negative integer is given.
 If the user enters a negative number, an error message is shown.
